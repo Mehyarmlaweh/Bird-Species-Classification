@@ -77,6 +77,9 @@ Published in *IJACSA-International Journal of Advanced Computer Science and Appl
 ## **Notebook**
 Check the complete notebook for this project in my Kaggle profile: [Mehyar Mlaweh's Kaggle Profile](https://www.kaggle.com/mehyarmlaweh).
 
+## **Model Deployment**
+I have also deployed this model using Gradio on Hugging Face Spaces. You can test the model and see its predictions here: [Gradio App](https://huggingface.co/spaces/Mehyaar/Bird-Species-Classification).
+
 ## **THANKS**
 **Mehyar MLAWEH **  
 [mehyar.mlaweh@dauphine.eu](mailto:mehyar.mlaweh@dauphine.eu)
