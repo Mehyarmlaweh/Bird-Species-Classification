@@ -5,6 +5,7 @@ This project focuses on bird species classification using the **Caltech-UCSD Bir
 ---
 ## **⚠️ Note**
 The pre-trained model used in this project is too large to be uploaded directly to this repository. Instead, you can rerun the notebook provided in the repository to train or load the model locally.
+
 ---
 
 # **Preprocessing & Transformations**
