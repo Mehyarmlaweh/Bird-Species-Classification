@@ -3,6 +3,9 @@
 This project focuses on bird species classification using the **Caltech-UCSD Birds-200-2011** dataset. The dataset originally contains 200 bird categories, but this study is limited to 30 categories for simplicity and improved focus. 
 
 ---
+## **⚠️ Note**
+The pre-trained model used in this project is too large to be uploaded directly to this repository. Instead, you can rerun the notebook provided in the repository to train or load the model locally.
+---
 
 # **Preprocessing & Transformations**
 
